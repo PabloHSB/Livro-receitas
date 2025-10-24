@@ -1,5 +1,6 @@
-# Livro de receitas
+# 📔 Livro de Receitas 🏡
 
-## Olá, bem-vindo ao meu livro de receitas
+## Bem-vindo! Sinta-se à vontade para explorar. 🥣
 
-### Bolo de banana
+## Nossas Receitas:
+### 🍌 Bolo de Banana
